@@ -1,2 +1,2 @@
-# testing
-Just some project I have made
+#introduce 
+Hello I'm Luan
